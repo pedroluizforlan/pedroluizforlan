@@ -1,7 +1,7 @@
 # Hi there, my name is Pedro 👋  
 ## Welcome to my GitHub Profile  
 
-- 🔭 I’m currently working at [BW8](https://bw8.com.br/)  
+- 🔭 I’m currently working at [Muffato](https://www.grupomuffato.com.br/)
 
 <div>
 <a href="https://github.com/pedroluizforlan">
